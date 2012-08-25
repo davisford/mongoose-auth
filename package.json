@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "bcrypt": ">=0.7.0",
-    "mongoose": "2.x",
+    "mongoose": ">=3.x",
     "everyauth": ">=0.2.32",
     "mongoose-types": ">=1.0.3"
   },
